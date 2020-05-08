@@ -82,6 +82,7 @@ a{
 .nav{
     display: flex;
     justify-content: space-between;
+    align-items: baseline;
     margin: 2% 0;
    
 }
